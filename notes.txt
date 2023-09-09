@@ -1,0 +1,13 @@
+Fonts:
+Peralta
+Poppins
+
+colors:
+background: #4B40C5;
+background: #EC682C;
+
+Img, Icons:
+
+
+
+
